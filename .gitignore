@@ -31,3 +31,12 @@
 *.out
 *.app
 *.json
+*.suo
+*.db
+*.ipch
+*.ilk
+*.log
+*.tlog
+*.idb
+*.user
+*.lastbuildstate
