@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\POJ\2663-tri-tiling.cpp">
+    <ClCompile Include="..\算法竞赛入门经典\ch3\uva-340-Master-Mind-Hints.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
