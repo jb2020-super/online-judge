@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\算法竞赛入门经典\ch3\uva-1583-DigitGenerator.cpp">
+    <ClCompile Include="..\算法竞赛入门经典\ch3\uva-1584-CircularSequence.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
