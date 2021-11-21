@@ -1,3 +1,7 @@
+# AOAPC II: Beginning Algorithm Contests (Second Edition)(Rujia Liu)
+
+《算法竞赛入门经典（第二版）》，刘汝佳
+
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 
 ## ch3
