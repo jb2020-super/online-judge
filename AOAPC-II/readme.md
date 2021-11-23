@@ -16,6 +16,7 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 | uva 10082 WERTYU              | EASY   | 字符串编码                         |
 | uva 1585 Score                | EASY   | 字符串统计                         |
 | uva 1586 Molar mass           | EASY+  | 字符串处理                         |
+| uva 1225  Digit Counting      | EASY   | 字符串处理                         |
 
 
 
