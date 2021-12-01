@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AOAPC-II\ch3\uva-1225-Digit-Counting.cpp">
+    <ClCompile Include="..\AOAPC-II\ch3\uva-227-Puzzle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
