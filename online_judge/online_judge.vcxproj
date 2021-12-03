@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AOAPC-II\ch3\uva-227-Puzzle.cpp" />
+    <ClCompile Include="uva-232-Crossword-Answers.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h" />
