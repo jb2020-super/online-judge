@@ -14,6 +14,7 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 | **uva 340 Master Mind Hints** | HORMAL | 思考题                             |
 | uva 401 Palindromes           | EASY   | 字符串编码；回文字符串；镜像字符串 |
 | uva 454 Periodic Strings      | EASY   | 字符串比较相等                     |
+| uva 1368 DNA Consensus String | EASY   | 数学题                             |
 | uva 1583 Digit Generator      | EASY   | 数字游戏                           |
 | uva 1584 Circular Sequence    | EASY   | 字符串比较大小                     |
 | uva 10082 WERTYU              | EASY   | 字符串编码                         |
