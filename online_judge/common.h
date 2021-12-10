@@ -21,3 +21,17 @@ public:
 private:
 	int T{ 0 };
 };
+
+class ProblemBase2
+{
+public:
+	virtual int GetInput() = 0;
+	virtual void RunAlgorithm() = 0;
+	
+	void Loop() {
+		while (GetInput() != EOF){
+			RunAlgorithm();
+		}
+	}
+private:
+};
