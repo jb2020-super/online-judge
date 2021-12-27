@@ -19,6 +19,7 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 | uva 1583 Digit Generator      | EASY   | 数字游戏                                       |
 | uva 1584 Circular Sequence    | EASY   | 字符串比较大小                                 |
 | uva 1587 Box                  | EASY   | sort                                           |
+| uva 1588 Kickdown             | EASY   | 数学题                                         |
 | uva 10082 WERTYU              | EASY   | 字符串编码                                     |
 | uva 1585 Score                | EASY   | 字符串统计                                     |
 | uva 1586 Molar mass           | EASY+  | 字符串处理                                     |

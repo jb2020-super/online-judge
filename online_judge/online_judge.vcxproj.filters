@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AOAPC-II\ch3\uva-1587-Box.cpp">
+    <ClCompile Include="..\AOAPC-II\ch3\uva-1588-Kickdown.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -22,7 +22,7 @@
     <ClInclude Include="common.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AOAPC-II\ch3\uva-1587-Box.cpp" />
+    <ClCompile Include="..\AOAPC-II\ch3\uva-1588-Kickdown.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
