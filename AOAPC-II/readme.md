@@ -26,7 +26,11 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 | uva 1225  Digit Counting      | EASY   | 字符串处理                                     |
 | uva 10340 All in All          | EASY   | 注意输入数组需要足够大，否则会导致RuntimeError |
 
+## ch4
 
+| 题号                    | 难度 | 解释 |
+| ----------------------- | ---- | ---- |
+| uva 1339 Ancient Cipher | EASY | sort |
 
 
 
