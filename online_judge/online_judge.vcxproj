@@ -22,7 +22,8 @@
     <ClInclude Include="common.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AOAPC-II\ch3\uva-1588-Kickdown.cpp" />
+    <ClCompile Include="..\AOAPC-II\ch3\uva-11809-Floating-Point-Numbers.cpp" />
+    <ClCompile Include="..\AOAPC-II\ch4\uva-1339.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

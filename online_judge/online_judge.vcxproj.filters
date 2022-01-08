@@ -20,7 +20,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AOAPC-II\ch3\uva-1588-Kickdown.cpp">
+    <ClCompile Include="..\AOAPC-II\ch3\uva-11809-Floating-Point-Numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AOAPC-II\ch4\uva-1339.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
