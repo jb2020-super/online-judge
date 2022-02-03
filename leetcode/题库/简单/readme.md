@@ -1,7 +1,10 @@
-| 题目                                                         | 题解           |
-| ------------------------------------------------------------ | -------------- |
-| 884. 两句话中的不常见单词                                    | map的使用      |
-| [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | 位运算         |
-| [1763. 最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/) | 数组下标的利用 |
-| [2000. 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | 字符串翻转     |
+| 题目                                                         | 题解                                             |
+| ------------------------------------------------------------ | ------------------------------------------------ |
+| 884. 两句话中的不常见单词                                    | map的使用                                        |
+| [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | 位运算                                           |
+| [1763. 最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/) | 数组下标的利用                                   |
+| [2000. 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | 字符串翻转                                       |
+| [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 二分查找；注意输入范围可能溢出                   |
+| [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | 二分查找；如何写出高效版本，避免重复计算中间变量 |
+| [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 二分查找                                         |
 
