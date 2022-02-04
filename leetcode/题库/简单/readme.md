@@ -7,4 +7,5 @@
 | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 二分查找；注意输入范围可能溢出                   |
 | [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | 二分查找；如何写出高效版本，避免重复计算中间变量 |
 | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 二分查找                                         |
+| [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | 排序                                             |
 
