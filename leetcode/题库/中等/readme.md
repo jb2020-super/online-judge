@@ -5,4 +5,5 @@
 | [1414. 和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | 斐波那契数列；二分查找                                       |
 | [189. 轮转数组](https://leetcode-cn.com/problems/rotate-array/) | 原地解法                                                     |
 | [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | 深度优先搜索                                                 |
+| [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 双指针                                                       |
 
