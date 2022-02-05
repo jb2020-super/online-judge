@@ -4,4 +4,5 @@
 | 1996 游戏中弱角色的数量                                      | 此题难度中等偏上，不容易相处最优算法。思路是使用了数值在10^5范围内。 |
 | [1414. 和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | 斐波那契数列；二分查找                                       |
 | [189. 轮转数组](https://leetcode-cn.com/problems/rotate-array/) | 原地解法                                                     |
+| [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | 深度优先搜索                                                 |
 
