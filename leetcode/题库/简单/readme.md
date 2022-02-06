@@ -9,4 +9,5 @@
 | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 二分查找                                         |
 | [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | 排序                                             |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 双指针                                           |
+| [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/) | 数组下标做记录                                   |
 
