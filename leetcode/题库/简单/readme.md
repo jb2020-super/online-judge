@@ -10,4 +10,6 @@
 | [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | 排序                                             |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 双指针                                           |
 | [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/) | 数组下标做记录                                   |
+| [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | 字符串翻转                                       |
+| [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 单词翻转                                         |
 
