@@ -6,4 +6,5 @@
 | [189. 轮转数组](https://leetcode-cn.com/problems/rotate-array/) | 原地解法                                                     |
 | [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | 深度优先搜索                                                 |
 | [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 双指针                                                       |
+| [1405. 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/) | 按规则生成字符串                                             |
 
