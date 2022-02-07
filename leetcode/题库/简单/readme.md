@@ -1,3 +1,5 @@
+# Leetcode简单题
+
 | 题目                                                         | 题解                                             |
 | ------------------------------------------------------------ | ------------------------------------------------ |
 | 884. 两句话中的不常见单词                                    | map的使用                                        |
@@ -12,4 +14,5 @@
 | [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/) | 数组下标做记录                                   |
 | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | 字符串翻转                                       |
 | [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 单词翻转                                         |
+| [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | 链表操作                                         |
 

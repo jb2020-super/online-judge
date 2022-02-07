@@ -1,3 +1,5 @@
+# Leetcode 中等难度
+
 | 题目                                                         | 解析                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1765 地图中的最高点                                          | 考察队列的使用                                               |
@@ -7,4 +9,5 @@
 | [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | 深度优先搜索                                                 |
 | [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 双指针                                                       |
 | [1405. 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/) | 按规则生成字符串                                             |
+| [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 链表操作                                                     |
 
