@@ -22,8 +22,7 @@
     <ClInclude Include="common.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AOAPC-II\ch3\uva-11809-Floating-Point-Numbers.cpp" />
-    <ClCompile Include="..\AOAPC-II\ch4\uva-1339.cpp" />
+    <ClCompile Include="..\leetcode\题库\困难\1001. 网格照明.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

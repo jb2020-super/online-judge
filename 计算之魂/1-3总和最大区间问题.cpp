@@ -67,7 +67,7 @@ void LargestSubsquence(double *pdata, int size)
 	}
 	printf("%d %d %lf\n", max_start, max_end, max_sum);
 }
-int main()
+int main1()
 {
 	constexpr int MAX_SIZE = 1000;
 	double input_data[MAX_SIZE] = {1.5, -12.3, 3.2, -5.5, 23.2, 3.2, -1.4, -12.2, 34.2, 5.4, -7.8, 1.1, -4.9};

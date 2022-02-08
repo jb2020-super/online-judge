@@ -171,7 +171,7 @@ private:
 	int m_vars[26];
 };
 
-int main()
+int _main()
 {
 	ConSimulator sim;
 	sim.Loop();
