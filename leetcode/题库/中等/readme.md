@@ -10,4 +10,5 @@
 | [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 双指针                                                       |
 | [1405. 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/) | 按规则生成字符串                                             |
 | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 链表操作                                                     |
+| [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 滑动窗口，哈希                                               |
 
