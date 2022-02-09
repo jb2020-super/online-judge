@@ -15,4 +15,5 @@
 | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | 字符串翻转                                       |
 | [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 单词翻转                                         |
 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | 链表操作                                         |
+| [2006. 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | 两层for循环                                      |
 
