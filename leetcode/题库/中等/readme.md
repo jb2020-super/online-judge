@@ -11,4 +11,5 @@
 | [1405. 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/) | 按规则生成字符串                                             |
 | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 链表操作                                                     |
 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 滑动窗口，哈希                                               |
+| [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/) | 求最大公约数GDC                                              |
 
