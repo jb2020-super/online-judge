@@ -14,4 +14,5 @@
 | [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/) | 求最大公约数GDC                                              |
 | [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | 使用数组下标索引字符串位置并且统计个数                       |
 | [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/) | 广度优先搜索                                                 |
+| [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | 搜索                                                         |
 
