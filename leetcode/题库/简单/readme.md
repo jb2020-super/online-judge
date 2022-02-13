@@ -18,4 +18,5 @@
 | [2006. 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | 两层for循环                                      |
 | [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/) | 搜索                                             |
 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 二叉树搜索                                       |
+| [1189. “气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | 字符统计                                         |
 
