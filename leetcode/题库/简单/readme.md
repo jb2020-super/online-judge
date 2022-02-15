@@ -19,4 +19,5 @@
 | [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/) | 搜索                                             |
 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 二叉树搜索                                       |
 | [1189. “气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | 字符统计                                         |
+| [1380. 矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | 数字统计                                         |
 
