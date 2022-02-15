@@ -51,3 +51,25 @@ public:
         return root;
     }
 };
+// O(1) memory, do not use queue
+class Solution2 {
+public:
+    void search(Node* node){        
+        if (!node->left){
+            return;
+        }
+        node->left->next = node->right;
+        if (node->next){
+            node->right->next = node->next->left;
+        }
+        search(node->left);
+        search(node->right);
+    }
+    Node* connect(Node* root) {        
+        if (!root){
+            return root;
+        }
+        search(root);
+        return root;
+    }
+};
