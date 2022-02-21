@@ -19,4 +19,5 @@
 | [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | 二分查找                                                     |
 | [688. 骑士在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | 概率题                                                       |
 | [969. 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | 思考题                                                       |
+| [838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes/) | 模拟                                                         |
 
