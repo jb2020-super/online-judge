@@ -20,4 +20,5 @@
 | [688. 骑士在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | 概率题                                                       |
 | [969. 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | 思考题                                                       |
 | [838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes/) | 模拟                                                         |
+| [1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/) | 模拟                                                         |
 
