@@ -21,4 +21,5 @@
 | [969. 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | 思考题                                                       |
 | [838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes/) | 模拟                                                         |
 | [1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/) | 模拟                                                         |
+| [537. 复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/) | 数字和字符相互转换                                           |
 
