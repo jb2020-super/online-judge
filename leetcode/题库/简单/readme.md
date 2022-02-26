@@ -21,4 +21,5 @@
 | [1189. “气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | 字符统计                                         |
 | [1380. 矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | 数字统计                                         |
 | [917. 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) | 反转字符                                         |
+| [2016. 增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/) | 求最值                                           |
 
